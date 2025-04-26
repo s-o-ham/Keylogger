@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="Keyhack.png" alt="Keylogger Image" width="300" height="400">
+  <img src="Keyhack.png" alt="Keylogger Image" width="300" height="450">
 </p>
 
 
